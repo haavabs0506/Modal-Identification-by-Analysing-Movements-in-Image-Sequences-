@@ -1,2 +1,2 @@
-# Modal-Indentification-by-Magnification-of-Movements-in-Image-Sequences-
+# Modal-Identification-by-Magnification-of-Movements-in-Image-Sequences-
 Master thesis 
